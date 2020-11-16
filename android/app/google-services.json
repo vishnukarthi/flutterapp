@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "327685993883",
+    "firebase_url": "https://phoneauth-aca45.firebaseio.com",
+    "project_id": "phoneauth-aca45",
+    "storage_bucket": "phoneauth-aca45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327685993883:android:3919e2dd26933f2df4dd3e",
+        "android_client_info": {
+          "package_name": "com.example.firebase_phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327685993883-1la79m38hd82v9n3uddp21fdomvpkost.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARXTEk2ZXCpr2rXBEP7Fm5IWYhJzZ4_Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327685993883-1la79m38hd82v9n3uddp21fdomvpkost.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327685993883:android:a33e3ed1fbc3abb7f4dd3e",
+        "android_client_info": {
+          "package_name": "comdesign.example.firebase_user_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327685993883-1la79m38hd82v9n3uddp21fdomvpkost.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARXTEk2ZXCpr2rXBEP7Fm5IWYhJzZ4_Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327685993883-1la79m38hd82v9n3uddp21fdomvpkost.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
